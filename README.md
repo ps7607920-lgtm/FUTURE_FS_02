@@ -30,20 +30,32 @@ A modern and responsive e-commerce storefront built using **React**, **Vite**, a
 ## 📁 Folder Structure
 
 project-root/
+
 │
 ├── public/ # Static files and images
+
 │ └── images/
+
 │
 ├── src/
+
 │ ├── components/ # Navbar, Footer
+
 │ ├── context/ # CartContext and WishlistContext
+
 │ ├── pages/ # Home, Products, Cart, Wishlist, etc.
+
 │ ├── App.jsx
+
 │ └── main.jsx
+
 │
 ├── tailwind.config.js # Tailwind configuration
+
 ├── postcss.config.js # PostCSS setup for Tailwind
+
 ├── index.html # Entry point
+
 └── package.json
 
 ---
