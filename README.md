@@ -34,10 +34,10 @@ project-root/
 │
 ├── public/ # Static files and images
 
-│ └── images/
+│ └── images/ # Images
 
 │
-├── src/
+├── src/ # components, context, pages
 
 │ ├── components/ # Navbar, Footer
 
